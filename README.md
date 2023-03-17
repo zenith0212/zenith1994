@@ -5,6 +5,7 @@
 ## Skills
 
 ![c++ logo](c%2B%2B.png) 
+c++
 ![Rust logo](rust.png)
 ![React logo](react.png) 
 ![angular logo](angular.png)
