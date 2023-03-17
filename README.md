@@ -1,2 +1,2 @@
 # zenith
-Description about me
+🌟 Top Glowing Star emoji 🌟 
