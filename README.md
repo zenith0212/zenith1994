@@ -5,10 +5,13 @@
 ## Skills
 
 ![c++ logo](c%2B%2B.png) 
-c++
+---
 ![Rust logo](rust.png)
+---
 ![React logo](react.png) 
+---
 ![angular logo](angular.png)
+---
 ![tauri logo](tauri.png)
 ![solana logo](solana.png)
 ![cosmwasm logo](cosmwasm.png)
