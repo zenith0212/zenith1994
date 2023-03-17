@@ -17,8 +17,3 @@
 
 * implemention of complicated large-scale program using various programming languages and desing pattern
 
-
-
-![my avatar](download.jpg)
-
-
