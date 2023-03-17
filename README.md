@@ -1,2 +1,2 @@
 # zenith
-🌟 Top Glowing Star emoji 🌟 
+🌟 Top Glowing Star 🌟 
