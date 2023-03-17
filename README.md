@@ -1,6 +1,6 @@
 # zenith
 🌟 Top Glowing Star 🌟 
 
-![my avatar](download.jpg)
+                              ![my avatar](download.jpg)
 
 
