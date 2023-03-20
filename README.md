@@ -41,5 +41,5 @@
 ### Solana
 * experience of 1 years
 
-### cosmwasm
+### Cosmwasm
 * experience of 1 years
