@@ -4,6 +4,7 @@
 
 ## Skills
 
+<center>
 ![c++ logo](c%2B%2B.png) 
 ![Rust logo](rust.png)
 ![React logo](react.png) 
@@ -11,7 +12,7 @@
 ![tauri logo](tauri.png)
 ![solana logo](solana.png)
 ![cosmwasm logo](cosmwasm.png)
-
+</center>
 * C++
 
 
