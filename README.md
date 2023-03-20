@@ -7,12 +7,12 @@
 
 ## Skills
 <p align="center">
-  <img src="c++.png" alt >
-  <img src="rust.png">
-  <img src="react.png">
-  <img src="angular.png">
-  <img src="tauri.png">
-  <img src="solana.png">
+  <img src="c++.png">🌟
+  <img src="rust.png">🌟
+  <img src="react.png">🌟
+  <img src="angular.png">🌟
+  <img src="tauri.png">🌟
+  <img src="solana.png">🌟
   <img src="cosmwasm.png">
 </p>
 
