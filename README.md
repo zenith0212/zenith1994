@@ -4,13 +4,13 @@
 
 ## Skills
 <p align="center">
-  <img width="460" height="300" src="c++.png">
-  <img width="460" height="300" src="rust.png">
-  <img width="460" height="300" src="react.png">
-  <img width="460" height="300" src="angular.png">
-  <img width="460" height="300" src="tauri.png">
-  <img width="460" height="300" src="solana.png">
-  <img width="460" height="300" src="cosmwasm.png">
+  <img src="c++.png">
+  <img src="rust.png">
+  <img src="react.png">
+  <img src="angular.png">
+  <img src="tauri.png">
+  <img src="solana.png">
+  <img src="cosmwasm.png">
 </p>
 
 * C++
