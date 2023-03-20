@@ -25,6 +25,7 @@
 ### Rust
 * experience of 3 years
 * deep knowledge about rust design patters
+* developed cross-platform programs 
 * developed several backend software using Actix, Rocket, and Tide
 * contributed to some crate library
 
