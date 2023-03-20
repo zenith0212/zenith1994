@@ -2,7 +2,7 @@
 🌟 Top Glowing Star 🔭
 (professional programmer that loves physics)
 
-<a href="versatile.skydev@gmail.com">email</a>
+* email: <a href="versatile.skydev@gmail.com">versatile.skydev@gmail.com</a>
 
 ## Skills
 <p align="center">
