@@ -7,17 +7,17 @@
   <img src="c++.png" alt >
   <em>c++</em>
   <img src="rust.png">
-   <em>c++</em>
+   <em>rust</em>
   <img src="react.png">
-   <em>c++</em>
+   <em>react</em>
   <img src="angular.png">
-   <em>c++</em>
+   <em>angular</em>
   <img src="tauri.png">
-   <em>c++</em>
+   <em>tauri</em>
   <img src="solana.png">
-   <em>c++</em>
+   <em>solana</em>
   <img src="cosmwasm.png">
-   <em>c++</em>
+   <em>cosmwasm</em>
 </p>
 
 * C++
