@@ -5,24 +5,31 @@
 ## Skills
 
 ![c++ logo](c%2B%2B.png) 
+![Rust logo](rust.png)
+![React logo](react.png) 
+![angular logo](angular.png)
+![tauri logo](tauri.png)
+![solana logo](solana.png)
+![cosmwasm logo](cosmwasm.png)
+
 * C++
 
-![Rust logo](rust.png)
+
 * Rust
 
-![React logo](react.png) 
+
 * React.js
 
-![angular logo](angular.png)
+
 * Angular.js
 
-![tauri logo](tauri.png)
+
 * Tauri
 
-![solana logo](solana.png)
+
 * Solana
 
-![cosmwasm logo](cosmwasm.png)
+
 * cosmwasm
 
 * implemention of complicated large-scale program using various programming languages and desing pattern
