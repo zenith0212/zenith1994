@@ -15,25 +15,22 @@
 
 ## experiences
 
-* C++
+### C++
+* experience of 5+ years
 
-** experience of 5+ years
-
-* Rust
-
-
-* React.js
+### Rust
 
 
-* Angular.js
+### React.js
 
 
-* Tauri
+### Angular.js
 
 
-* Solana
+### Tauri
 
 
-* cosmwasm
+### Solana
 
 
+### cosmwasm
