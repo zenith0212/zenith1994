@@ -4,7 +4,8 @@
 
 ## Skills
 <p align="center">
-  <img src="c++.png" caption="c++">
+  <img src="c++.png" alt>
+  <em>image_caption</em>
   <img src="rust.png">
   <img src="react.png">
   <img src="angular.png">
