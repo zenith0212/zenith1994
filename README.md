@@ -2,7 +2,8 @@
 🌟 Top Glowing Star 🔭
 (professional programmer that loves physics)
 
-* email: <a href="versatile.skydev@gmail.com">versatile.skydev@gmail.com</a>
+* email :  <a href="versatile.skydev@gmail.com">versatile.skydev@gmail.com</a>
+* skype :  <a href="https://join.skype.com/invite/sTcIbKLV2x6u">🌟zenith🌟</a>
 
 ## Skills
 <p align="center">
