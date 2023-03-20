@@ -17,20 +17,27 @@
 
 ### C++
 * experience of 5+ years
+* developed medium and big software using OpenSSL, OpenGL, OpenCV, Boost, and etc
+* favourite IDE is qt and visual studio
+* developed several program with open-source
+* c++ is the most favourite language
 
 ### Rust
-
+* experience of 3 years
+* deep knowledge about rust design patters
+* developed several backend software using Actix, Rocket, and Tide
 
 ### React.js
-
+* experience of 2 years
 
 ### Angular.js
-
+* experience of 1 year
 
 ### Tauri
-
+* experience of 2 years
 
 ### Solana
-
+* experience of 1 years
 
 ### cosmwasm
+* experience of 1 years
