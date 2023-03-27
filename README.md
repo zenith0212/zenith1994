@@ -33,7 +33,10 @@
 * contributed to some crate library
 
 ### React.js
-* experience of 2 years
+* experience of 6 years
+* solid knowledge for various react libraries such as react-konva and react-slate
+* have built interactive digital worksheet builder (teachermade.com)
+* Currently working on Notion alike Saas app
 
 ### Angular.js
 * experience of 1 year
