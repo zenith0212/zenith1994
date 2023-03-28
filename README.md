@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MQL5**
 
-- 💬 Ask me about **C++ & Rust & Python & JavaScript & Blockchain**
+- 💬 Ask me about **C++** & **Rust** & **Python** & **JavaScript** & **Blockchain**
 
 - ⚡ Fun fact **50% of programming is coding, the rest 50% is debugging**
 
