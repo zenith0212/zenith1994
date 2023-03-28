@@ -5,15 +5,11 @@
 
 * 📞skype :  <a href="https://join.skype.com/invite/sTcIbKLV2x6u">🌟zenith🌟</a>
 
-- 🔭 I’m currently working on [Fxalgebra](fxalgebra.com)
+- 🔭 I’m currently working on freelancer
 
-- 🌱 I’m currently learning **Kivy**
+- 🌱 I’m currently learning **MQL5**
 
-- 👯 I’m looking to collaborate on [Machine Learning related projects](https://github.com/MegaJoctan/MALE5)
-
-- 🤝 I’m looking for help with [MALE5](https://github.com/MegaJoctan/MALE5)
-
-- 💬 Ask me about **python, C++, JavaScript and MQL5**
+- 💬 Ask me about **C++, Rust, JavaScript and Blockchain**
 
 - ⚡ Fun fact **10% of programming is coding, the rest 90% is debugging**
 
