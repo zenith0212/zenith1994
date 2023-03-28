@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm zenith, 🌟 Top Glowing Star 🔭</h1>
 <h3 align="center">professional programmer that loves physics</h3>
 
-* email :  <a href="versatile.skydev@gmail.com">versatile.skydev@gmail.com</a>
+* ✉email :  <a href="versatile.skydev@gmail.com">versatile.skydev@gmail.com</a>
 
-* skype :  <a href="https://join.skype.com/invite/sTcIbKLV2x6u">🌟zenith🌟</a>
+* 📞skype :  <a href="https://join.skype.com/invite/sTcIbKLV2x6u">🌟zenith🌟</a>
 
 - 🔭 I’m currently working on [Fxalgebra](fxalgebra.com)
 
@@ -14,8 +14,6 @@
 - 🤝 I’m looking for help with [MALE5](https://github.com/MegaJoctan/MALE5)
 
 - 💬 Ask me about **python, C++, JavaScript and MQL5**
-
-- 📫 Reach me **omegajoctan@gmail.com**
 
 - ⚡ Fun fact **10% of programming is coding, the rest 90% is debugging**
 
