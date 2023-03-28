@@ -6,8 +6,6 @@
 * email :  <a href="versatile.skydev@gmail.com">versatile.skydev@gmail.com</a>
 * skype :  <a href="https://join.skype.com/invite/sTcIbKLV2x6u">🌟zenith🌟</a>
 
-<p align="left"> <a href="https://twitter.com/omega_joctan" target="blank"><img src="https://img.shields.io/twitter/follow/omega_joctan?logo=twitter&style=for-the-badge" alt="omega_joctan" /></a> </p>
-
 - 🔭 I’m currently working on [Fxalgebra](fxalgebra.com)
 
 - 🌱 I’m currently learning **Kivy**
