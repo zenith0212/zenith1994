@@ -16,7 +16,7 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
         <img src="c++.png" alt="cplusplus" width="60" height="60" />
     </a> &nbsp;
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <a href="https://developer.mantidproject.org/Standards/AlgorithmDocumentation.html" target="_blank" rel="noreferrer"> 
         <img src="algorithm.png" alt="algorithm" width="60" height="60" />
     </a> &nbsp;  
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
