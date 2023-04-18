@@ -20,7 +20,10 @@
         <img src="rust.png" alt="rust" width="60" height="60" />
     </a> &nbsp; 
     <a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
-        <img src="golang.png" alt="linux" width="60" height="60" />
+        <img src="golang.png" alt="go" width="60" height="60" />
+    </a> &nbsp; 
+    <a href="https://docs.soliditylang.org/en/v0.8.19/" target="_blank" rel="noreferrer">
+        <img src="solidity.png" alt="solidity" width="60" height="60" />
     </a> &nbsp; 
     <a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="javascript.png" alt="javascript" width="60" height="60" />
@@ -31,13 +34,16 @@
     <a  href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"> 
         <img src="react.png" alt="react" width="60" height="60" />
     </a> &nbsp;
-    <a  href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"> 
+    <a  href="https://docs.solana.com/" target="_blank" rel="noreferrer"> 
+        <img src="ethereum.png" alt="ethereum" width="60" height="60" />
+    </a> &nbsp;
+    <a  href="https://docs.solana.com/" target="_blank" rel="noreferrer"> 
         <img src="solana.png" alt="solana" width="60" height="60" />
     </a> &nbsp;
     <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"> 
         <img src="github.png" alt="opencv" width="60" height="60" />
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60" /> 
+        <img src="docker.png" alt="docker" width="60" height="60" /> 
     </a> &nbsp;
 </p>
