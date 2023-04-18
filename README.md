@@ -22,6 +22,9 @@
     <a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
         <img src="golang.png" alt="go" width="60" height="60" />
     </a> &nbsp; 
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="python.png" alt="python" width="60" height="60" />
+    </a> &nbsp; 
     <a href="https://docs.soliditylang.org/en/v0.8.19/" target="_blank" rel="noreferrer">
         <img src="solidity.png" alt="solidity" width="60" height="60" />
     </a> &nbsp; 
