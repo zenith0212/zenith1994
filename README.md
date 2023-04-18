@@ -26,10 +26,13 @@
         <img src="javascript.png" alt="javascript" width="60" height="60" />
     </a> &nbsp;
     <a  href="https://nodejs.org/en/docs" target="_blank" rel="noreferrer"> 
-        <img src="nodejs.png" alt="javascript" width="60" height="60" />
+        <img src="nodejs.png" alt="node" width="60" height="60" />
     </a> &nbsp;
     <a  href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"> 
-        <img src="react.png" alt="javascript" width="60" height="60" />
+        <img src="react.png" alt="react" width="60" height="60" />
+    </a> &nbsp;
+    <a  href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"> 
+        <img src="solana.png" alt="solana" width="60" height="60" />
     </a> &nbsp;
     <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"> 
         <img src="github.png" alt="opencv" width="60" height="60" />
