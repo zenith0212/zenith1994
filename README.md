@@ -14,7 +14,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" />
+        <img src="c++.png" alt="cplusplus" width="60" height="60" />
     </a> &nbsp; 
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
         <img src="rust.png" alt="rust" width="60" height="60" />
