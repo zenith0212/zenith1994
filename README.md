@@ -4,7 +4,7 @@
 
 * 📞 skype : <a href="https://join.skype.com/invite/sTcIbKLV2x6u">🌟zenith🌟</a>
 
-- 💻 I’m currently working as freelancer
+- 💻 I’m currently working as a freelancer
 
 - 💬 Ask me about **C++** & **Rust** & **Python** & **JavaScript** & **Blockchain**
 
