@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm zenith, 🌟 Top Glowing Star 🔭</h1>
+<h1 align="center">Hi 👋, I'm zenith, 🌟 Top Glowing Star</h1>
 
 * ✉ email : <a href="versatile.skydev@gmail.com">versatile.skydev@gmail.com</a>
 
